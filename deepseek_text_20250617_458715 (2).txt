@@ -1,7 +1,0 @@
-El-Motahida/
-├── index.html          (Homepage)
-├── products.html       (Products Gallery)
-├── assets/
-│   ├── css/
-│   │   └── style.css   (Styling)
-│   └── images/         (Marble images)
